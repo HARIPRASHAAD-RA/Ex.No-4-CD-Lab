@@ -1,9 +1,8 @@
-## Name: HARIPRASHAAD RA
-## Register Number : 212223040060
-
 # Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
-
+## Name: HARIPRASHAAD RA
+## Register Number : 212223040060
+## Date: 03.10.2024
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
